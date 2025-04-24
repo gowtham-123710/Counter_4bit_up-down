@@ -26,6 +26,7 @@ The output is Counter which is 4 bit in size.
  
 ![image](https://github.com/user-attachments/assets/efe1095e-989e-4005-b53b-e9dc50d4025c)
 
+
 ## Fig 1: 4 Bit Up/Down Counter
 
 ## Creating a Work space :
